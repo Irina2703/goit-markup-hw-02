@@ -60,27 +60,7 @@ button{
     .hero-button:focus {background-color: #404bbf;}
         .footer {
              background: #2e2f42;}
-    
-        .blue {font-weight: 700;
-            font-size: 18px;
-            line-height: 1.16667;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color: #4d5ae5;}
-    
-        .footer-text {font-family: "Roboto", sans-serif;
-        font-weight: 400;
-            font-size: 16px;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #f4f4fd;}
-        .footer-logo {font-weight: 700;
-            font-size: 18px;
-            line-height: 1.16667;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color: #f4f4fd;}
-
+ 
 
 .page-benefits {}
 
@@ -88,6 +68,33 @@ button{
 
 .benefits-item {
     }
+
+
+.footer {background: #2e2f42;}
+
+.footer-name {font-family: "Raleway", sans-serif;
+ font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
+
+.studio {font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;}
+
+.footer-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
+
+
+
 
 .benefits-name {
     font-weight: 500;
