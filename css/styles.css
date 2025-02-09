@@ -139,8 +139,23 @@ button{
  
  
             /*  our team */
- .team-color{ 
+.team-name{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize
+    text-align: center;
+    color: #2e2f42;}
+.team-color{ 
     background: #f4f4fd;}
 
     
-    
+ .mark_guerrero {}
+
+ .tom_ford {}
+
+ .camila_garcia {}
+
+ .daniel_wilson {}
