@@ -62,18 +62,13 @@ button{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;}
+    color: #404bbf;}
 .address-tel:hover,{
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;}
-.address-mail:focus,
-.address-tel:focus {
-    color: #404bbf;
-    
-}
 
 
 .hero {line-height: 1.07;
@@ -96,11 +91,11 @@ color: #fff;
 background: #4d5ae5;}
 .button:hover,
 .button:focus{background-color: #404bbf}
-
-    .footer {
-background: #2e2f42;}
-    .footer {
-background: #2e2f42;}
+   
+        .footer {
+             background: #2e2f42;}
+ 
+.footer {background: #2e2f42;}
 
 .footer-name {font-family: "Raleway", sans-serif;
  font-weight: 700;
