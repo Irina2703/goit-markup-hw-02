@@ -176,14 +176,13 @@ background-color: #4d5ae5;}
 .team-color{ 
     background: #f4f4fd;}
 
+ .team {background-color: #ffffff;
     
- .mark_guerrero {}
+    padding: 20px;
+    text-align: center;
+    
+    margin: 15px;}
 
- .tom_ford {}
-
- .camila_garcia {}
-
- .daniel_wilson {}
  .our-team-h{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
