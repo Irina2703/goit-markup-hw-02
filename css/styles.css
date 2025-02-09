@@ -57,8 +57,8 @@ button{
     font-style: normal;
 }
 
-.email,
-.phone {
+
+.contact {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -67,10 +67,12 @@ button{
     color: #434455;
 }
 
-.email:hover,
-.email:focus,
-.phone:hover,
-.phone:focus {
+.contact:hover,
+.contact:focus{
+        color: #404bbf;
+    }
+.contact-phone:hover,
+.contact-phone:focus {
     color: #404bbf;
 }
 
